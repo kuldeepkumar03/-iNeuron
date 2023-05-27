@@ -1,6 +1,6 @@
-# -iNeuron
-# -Restaurant-rating-prediction
-# -Author- Kuldeep Kumar
+# iNeuron
+# Restaurant-rating-prediction
+# Author- Kuldeep Kumar
 
 Programming Language- Python
 
