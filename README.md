@@ -1,4 +1,4 @@
-# iNeuron
+
 # Restaurant-rating-prediction
 # Author- Kuldeep Kumar
 
